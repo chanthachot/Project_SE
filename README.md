@@ -10,7 +10,7 @@
 
 ## Installation
 
-1. Dump Database **calendar.sql** ในโฟลเดอร์ **database** ลงใน PHPMyadmin
+1. Dump Database *calendar.sql* ในโฟลเดอร์ *database* ลงใน PHPMyadmin
 2. นำโฟลเดอร์หลักไปไว้บน Server
 
 ## หน้าจอการทำงานของเว็บไซต์
@@ -31,6 +31,16 @@
 
 <p align="center">
   <img src="ui_images/3.png" />
+</p>
+
+> หน้าเข้าสู่ระบบ
+>
+> > สำหรับ User Username: admin1 Password: 1234
+> >
+> > > สำหรับ Admin Username: user1 Password: 1234
+
+<p align="center">
+  <img src="ui_images/10.png" />
 </p>
 
 > หน้าแรกเมื่อเข้าสู่ระบบเป็น User
