@@ -6,13 +6,14 @@
 
 - PHP
 - MySQL
+- JavaScript
 
 ## Installation
 
-1. Dump Database calendar.sql ใน foler database ลงใน PHPMyadmin
-2. และนำโฟลเดอร์หลักไปไว้ใน Server
+1. Dump Database **calendar.sql** ในโฟลเดอร์ **database** ลงใน PHPMyadmin
+2. นำโฟลเดอร์หลักไปไว้บน Server
 
-## หน้าจอการทำงานของแอปพลิเคชัน
+## หน้าจอการทำงานของเว็บไซต์
 
 > หน้าแรก
 
